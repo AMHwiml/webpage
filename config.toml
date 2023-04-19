@@ -21,7 +21,7 @@ summarylength = 25
     weight  = 30
   [[menu.nav]]
     name    = "Events"
-    url     = "blog"
+    url     = "events"
     weight  = 40
   [[menu.nav]]
     name    = "Sponsorship"
@@ -109,8 +109,8 @@ summarylength = 25
           name = "Projects"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
-          name = "Blog"
-          url  = "blog"
+          name = "Events"
+          url  = "events"
         [[params.footer.sitemap.link]]
           name = "Contact"
           url  = "contact"

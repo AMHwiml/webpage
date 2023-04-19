@@ -65,6 +65,15 @@ hugo server -F
 
 Webpage can be viewed at [localhost:1313](http://localhost:1313/)
 
+## Example: Add an event
+
+1. Navigate (Finder, Window Explorer) to content/events/
+2. Copy wiml23.md to wiml24.md
+3. Change year in line 3 (date) from 2023 to 2023
+4. Run the homepage locally with `hugo server -F` in the terminal
+5. Go to [http://localhost:1313/events](http://localhost:1313/events) and look
+at the new event.
+
 ## Publish the site 
 
 When you publish your site, Hugo creates the entire static site in the public directory in the root of your project. This includes the HTML files, and assets such as images, CSS files, and JavaScript files.
