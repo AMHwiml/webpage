@@ -1,6 +1,6 @@
 ---
 title: "2023 WiML Workshop"
-date: 2020-11-28T09:00:00+06:00
+date: 2023-11-28T09:00:00+06:00
 image: images/blog/blog-post-04.jpg
 feature_image: images/wimlworkshop22.jpg
 author: Linh

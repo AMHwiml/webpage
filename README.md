@@ -35,8 +35,9 @@ cp -a themes/roxo-hugo/exampleSite/* .
 Terminal (bash):
 
 ```
-hugo server
-# Output on the terminal:
+hugo server -F
+
+# Exemplary output on the terminal:
 #
 # Start building sites …
 # hugo v0.110.0+extended darwin/arm64 BuildDate=unknown
