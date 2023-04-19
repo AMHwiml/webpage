@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "How far have we come?"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "Events"
+    number: "18"
 
-  - title: "Projects Completed"
+  - title: "Directory of WiML"
+    number: "349"
+
+  - title: "Corporate Partners"
+    number: "10"
+
+  - title: "Mentors"
     number: "100"
-
-  - title: "Cups of coffee"
-    number: "350"
-
-  - title: "Telephone Talks"
-    number: "775"

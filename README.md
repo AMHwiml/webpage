@@ -63,3 +63,11 @@ hugo server
 ```
 
 Webpage can be viewed at [localhost:1313](http://localhost:1313/)
+
+## Publish the site 
+
+When you publish your site, Hugo creates the entire static site in the public directory in the root of your project. This includes the HTML files, and assets such as images, CSS files, and JavaScript files.
+
+```
+hugo
+```

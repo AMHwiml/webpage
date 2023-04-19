@@ -1,9 +1,9 @@
 ---
-title: "USE-LESS BRAND"
+title: "Directory and Profiles of Women in Machine Learning"
 date: 2019-12-23T15:58:10+06:00
 type: portfolio
 image: "images/projects/project-thumb-one.jpg"
-category: ["UI UX"]
+category: ["RESEARCH"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
