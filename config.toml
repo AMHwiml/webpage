@@ -16,21 +16,9 @@ summarylength = 25
     url     = "about"
     weight  = 20
   [[menu.nav]]
-    name    = "Resources"
-    url     = "portfolio"
-    weight  = 30
-  [[menu.nav]]
     name    = "Events"
     url     = "events"
     weight  = 40
-  [[menu.nav]]
-    name    = "Sponsorship"
-    url     = "sponsorship"
-    weight  = 50
-  [[menu.nav]]
-    name    = "Directors"
-    url     = "directors"
-    weight  = 60
 
 # Site Params
 [params]
